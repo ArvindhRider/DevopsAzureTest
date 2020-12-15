@@ -5,7 +5,7 @@
 # Check CI during dev on dec 15 trail 2 
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
